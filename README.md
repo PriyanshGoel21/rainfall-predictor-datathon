@@ -10,29 +10,9 @@ This project was developed as part of a hackathon and aims to predict rainfall u
 
 **Model Deployment:** The project includes the deployment of the trained Random Forest model using streamlit, allowing users to input weather data for prediction and obtain rainfall predictions in real-time.
 
-## Installation
-Clone the repository to your local machine.
-Install the required Python packages using pip or conda package manager. For example:
-pip install numpy pandas scikit-learn
-Usage
-Run the data collection script to collect and preprocess historical weather data.
-Train the Random Forest model using the preprocessed data.
-Evaluate the model's performance using various performance metrics.
-Deploy the trained model to make rainfall predictions based on user input.
-For detailed usage instructions, please refer to the documentation included in the repository.
-
-Contributors
+## Contributors
 This project was developed by the following contributors during the hackathon:
 
-Contributor 1
-Contributor 2
-Contributor 3
-License
-This project is released under the MIT License. Feel free to use and modify the code as per the terms of the license.
-
-References
-Please refer to the following resources for more information on Random Forest algorithm and rainfall prediction:
-
-Breiman, L. (2001). Random forests. Machine learning, 45(1), 5-32.
-Scikit-learn Documentation: Random Forest
-Weather API Documentation: XYZ Weather Service
+- [Naad Dantale](https://github.com/last-brain-cell)
+- [Lala Arnav Vastal]()
+- [Priyanshu]()
