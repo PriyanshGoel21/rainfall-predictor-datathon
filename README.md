@@ -10,6 +10,11 @@ This project was developed as part of a hackathon and aims to predict rainfall u
 
 **Model Deployment:** The project includes the deployment of the trained Random Forest model using streamlit, allowing users to input weather data for prediction and obtain rainfall predictions in real-time.
 
+## Installation
+1. Clone the repository to your local machine.
+2. Install the required dependencies. 
+```pip install -r requirements.txt```
+
 ## Contributors
 This project was developed by the following contributors during the hackathon:
 
