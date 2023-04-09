@@ -1,6 +1,8 @@
 # Rainfall Prediction using Random Forest
 This project was developed as part of a hackathon and aims to predict rainfall using the Random Forest algorithm. The project utilizes historical weather data to train a Random Forest model, which can then be used to predict rainfall in a given region.
 
+**Project URL:** https://rainfall-prediction-sigfest.streamlit.app/
+
 ## Features
 **Data Preprocessing:** The collected weather data is preprocessed to handle missing values, normalize data, and extract relevant features for training the Random Forest model.
 
